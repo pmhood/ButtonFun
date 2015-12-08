@@ -9,9 +9,6 @@ ButtonFun
 * Make the code as reusable as possible.
 * Bonus points, try not to use UIButtons
 
-### Setup and Submission Instructions
+### Submission Instructions
 
-* Clone this repository to your local machine.
-* Commit your changes to a new branch.
-* Push that branch back to Github.
-* When complete, create a pull request with the head branch as your new branch and the base branch as master.
+* When complete, zip project folder and send back to us.
